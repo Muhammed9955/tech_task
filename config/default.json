@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://medo:medo@devconnector-lfspf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "305929472801d6aec144",
+  "githubSecret": "ee1fec4bc70a050762a50ed8cad7bf4d58a36bc8"
+}
